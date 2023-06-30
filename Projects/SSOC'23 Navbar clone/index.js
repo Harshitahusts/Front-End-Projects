@@ -9,5 +9,5 @@ main.style.border = "5px solid #ffab01"
 function chooseTheme() {
     let color = theme.value
     navbar.style.background = color
-    main.style.border = "5px solid " + color
+    main.style.border = "9px solid " + color
 }
